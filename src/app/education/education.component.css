@@ -1,0 +1,39 @@
+.education-container {
+    display: flex;
+    flex-direction: column;
+    padding: 1%;
+    justify-content: start;
+    width: 45%;
+    margin-inline: auto;
+    border-bottom: 1px solid rgb(75, 27, 5);
+    padding-bottom: 3%;
+}
+
+.education-info {
+    display: flex;
+    width: 100%;
+}
+
+.year {
+    width: 30%;
+}
+
+.year p {
+    line-height: 0.2rem;
+    font-size: 0.8rem;
+}
+
+.school {
+    width: 70%;
+}
+
+.school h4 {
+    font-size: 1rem;
+}
+
+h2 {
+    font-size: 1.7rem;
+    color:  rgb(124, 45, 9);
+    
+    
+}

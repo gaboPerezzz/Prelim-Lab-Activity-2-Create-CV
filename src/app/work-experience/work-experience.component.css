@@ -1,0 +1,14 @@
+.workExperience-container {
+    display: flex;
+    flex-direction: column;
+    padding: 1%;
+    justify-content: start;
+    width: 45%;
+    margin-inline: auto;
+    border-bottom: 1px solid rgb(75, 27, 5);
+    padding-bottom: 2%;
+}
+
+h2 {
+    color:  rgb(124, 45, 9);
+}
